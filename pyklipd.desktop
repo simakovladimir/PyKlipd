@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Basic Clipboard Manager
+Type=Application
+NoDisplay=true
+Exec=/usr/bin/pyklipd.py
